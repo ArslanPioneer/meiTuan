@@ -52,7 +52,7 @@
           <el-input v-model="form.Number"></el-input>
         </el-form-item>
         <el-form-item
-          label="创建密码"
+          label="密码"
           prop="pwd"
         >
           <el-input
